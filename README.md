@@ -1,5 +1,5 @@
 # pi-menu
-HTML Edit Of qb-menu
+Redesign of qb-menu
 
 # Preview
 
@@ -7,4 +7,4 @@ https://streamable.com/bg0om4
 
 # Installation
 
-Just Replace The HTML Folder With qb-menu html Folder
+Just Replace your qb-menu to pi-menu EZ
