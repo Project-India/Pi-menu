@@ -3,7 +3,7 @@ Redesign of qb-menu
 
 # Preview
 
-https://streamable.com/bg0om4
+(https://youtu.be/VEpnwaYZaRo)
 
 # Installation
 
